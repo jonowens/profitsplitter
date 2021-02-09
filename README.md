@@ -106,11 +106,13 @@ function deposit() public payable {
 
 6. MetaMask will ask for confirmation of the accounts to use and the deployment.  Check the three accounts preconfigured and confirm the configuration.
 
-6. Click the Deploy button in Remix to deploy the contract configuration.
+7. Click the Deploy button in Remix to deploy the contract configuration.
 
-7. Try using the contract by entering the employee addresses, specifying a Value of ether to deposit and dispurse and then clicking the Deposit button futher down the page.
+8. Try using the contract by entering the employee addresses, specifying a Value of ether to deposit and dispurse and then clicking the Deposit button futher down the page.
 
-8. You should see the accounts change values and evenly dispurse funds between the three accounts while returning the remainder to "Human Resources"/the original account making the deposit.  Success!!
+9. The Value specified by the account depositing money, Human Resources or another account, will be divided by three, each division will be transferred to an identified employee's address, and any remainder left over after the division will be returned to the sender depositing the funds.
+
+10. You should see the accounts change values and evenly dispurse funds between the three accounts while returning the remainder to "Human Resources"/the original account making the deposit.  Success!!
 
 The following is a short clip of the usage steps mentioned above.  It starts by showing the three accounts used in Ganache and MetaMask.  Enjoy!
 
