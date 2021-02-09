@@ -13,17 +13,19 @@ The following repository is to show the skills and understanding of creating a c
 
 ## General Information
 
-Add more general information about project. What the purpose of the project is? Motivation?
+Our company created its own Ethereum-compatible blockchain and wants to use the technology to connect financial institutions while increasing transparency and automating accounting and auditing.  Three profit splitting contracts are listed below.  While only one is required for completion of the the assignment, all three can be completed if there is enough time.
+
+* Pay your Associate-level employees quickly and easily.
+
+* Distribute profits to different tiers of employees.
+
+* Distribute company shares for employees in a "deferred equity incentive plan" automatically.[1]
 
 ---
 
 ## Sources
 
 - [1] https://rice.bootcampcontent.com/Rice-Coding-Bootcamp/rice-hou-fin-pt-09-2020-u-c/tree/master/hw/20-Solidity/Instructions
-
-- [2] 
-
-- [3] 
 
 ---
 
@@ -34,8 +36,6 @@ Project is: _in progress_
 ---
 
 ## Contributors
-
-In this section, list all the people who contribute to this project; since you may want to be reached by recruiters or potential collaborators, include your contact e-mail, and optionally your LinkedIn or Twitter profile.
 
 * Jonathan Owens
 * LinkedIn: www.linkedin.com/in/jonowens
